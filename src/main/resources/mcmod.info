@@ -1,0 +1,18 @@
+[
+{
+    "modid": "DrZoidCraft",
+    "name": "DrZoidCraft",
+    "description": "mod learning workspace based on pahimars letsmodreboot !",
+    "version": "0.1",
+    "credits": "Created by Dr-John-Zoidberg",
+    "logoFile": "",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authors": [ "Dr-John-Zoidberg" ],
+    "parent":"",
+    "screenshots": [],
+    "dependencies": [
+]
+}
+]
