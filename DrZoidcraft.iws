@@ -2,9 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17518d64-a434-4ce4-b8b8-4759f0056f5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/items/creativeLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/blocks/testblock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/BlockDrZoidCraft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/Blocktest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/creativetab/CreativeTabDrZoidCraft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemCreativeLogo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModBlocks.java" />
+      <change type="DELETED" beforePath="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\out\production\DrZoidcraft\assets\drzoidcraft\textures\items\ItemCreativeZoid.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\src\main\resources\assets\drzoidcraft\textures\items\ItemCreativeZoid.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-3.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-4.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-5.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-6.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-04-01-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-04-01-7.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/29aa321a-1ce7-35de-bfab-f37fa4095c7d.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/29aa321a-1ce7-35de-bfab-f37fa4095c7d.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.class" afterPath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.class" afterPath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.class" afterPath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/init/ModItems.class" afterPath="$PROJECT_DIR$/out/production/DrZoidcraft/com/drjohnzoidberg/drzoidcraft/init/ModItems.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-2.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-2.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DrZoidcraft.iws" afterPath="$PROJECT_DIR$/DrZoidcraft.iws" />
-      <change type="MOVED" beforePath="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\src\main\resources\assets\drzoidcraft\textures\items\ItemDiamondBlockHoe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/items/diamondBlockHoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/options.txt" afterPath="$PROJECT_DIR$/eclipse/options.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
     </list>
     <ignored path="DrZoidcraft.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,79 +106,7 @@
     <favorites_list name="DrZoidcraft" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DrZoidCraft.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-              <folding>
-                <element signature="e#1392#1393#0" expanded="true" />
-                <element signature="e#1450#1451#0" expanded="true" />
-                <element signature="e#1538#1539#0" expanded="true" />
-                <element signature="e#1601#1602#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemDrZoidCraft.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02681388">
-              <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemDiamondBlockHoe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,12 +145,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/utility/LogHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/handler/ConfigurationHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/client/gui/ModGuiConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/Blocktest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/creativetab/CreativeTabDrZoidCraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/BlockDrZoidCraft.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemCreativeLogo.java" />
       </list>
     </option>
   </component>
@@ -234,6 +210,35 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrZoidcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrZoidcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrZoidcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrZoidcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.drjohnzoidberg.drzoidcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -269,125 +274,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.drjohnzoidberg.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.drjohnzoidberg.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reference" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="items" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrZoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets.drzoidcraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,6 +296,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\src\main\resources\assets\drzoidcraft\textures\blocks" />
       <recent name="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\src\main\resources\assets\DrZoidCraft\textures\items" />
       <recent name="D:\Projects\Minecraft\1.7.10-Forge10.13.2.1291\DrZoidcraft\src\main" />
     </key>
@@ -643,22 +530,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928064" sideWeight="0.496875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.496875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928064" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19655521" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19655521" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19655521" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15400203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -669,6 +555,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -696,11 +583,64 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,10 +649,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
           <folding>
-            <element signature="e#1392#1393#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1601#1602#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -769,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,15 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-            <element signature="e#545#546#0" expanded="false" />
-            <element signature="e#572#573#0" expanded="false" />
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,10 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32176656">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#504#534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,27 +800,36 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/items/ItemCreativeZoid.png">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/items/creativeLogo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.13333334">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/reference/Reference.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/textures/blocks/testblock.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/Blocktest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.17777778">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044444446">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -907,38 +837,89 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/DrZoidCraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="e#1392#1393#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1601#1602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/drzoidcraft/lang/en_US.lang">
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1291/forgeSrc-1.7.10-10.13.2.1291-sources.jar!/net/minecraft/item/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02681388">
-          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="566" column="16" selection-start-line="566" selection-start-column="16" selection-end-line="566" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15555556">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/creativetab/CreativeTabDrZoidCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDrZoidCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/block/BlockDrZoidCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemCreativeLogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/drjohnzoidberg/drzoidcraft/item/ItemDiamondBlockHoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31111112">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

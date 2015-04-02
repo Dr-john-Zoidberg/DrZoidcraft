@@ -1,6 +1,7 @@
 package com.drjohnzoidberg.drzoidcraft;
 
 import com.drjohnzoidberg.drzoidcraft.handler.ConfigurationHandler;
+import com.drjohnzoidberg.drzoidcraft.init.ModBlocks;
 import com.drjohnzoidberg.drzoidcraft.init.ModItems;
 import com.drjohnzoidberg.drzoidcraft.proxy.IProxy;
 import com.drjohnzoidberg.drzoidcraft.reference.Reference;
@@ -27,6 +28,9 @@ public class DrZoidCraft
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         ModItems.init();
+        ModBlocks.init();
+
+
         LogHelper.info("Pre Initialization Complete!");
     }
 

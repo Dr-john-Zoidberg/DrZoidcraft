@@ -1,6 +1,7 @@
 package com.drjohnzoidberg.drzoidcraft.item;
 
 
+import com.drjohnzoidberg.drzoidcraft.creativetab.CreativeTabDrZoidCraft;
 import com.drjohnzoidberg.drzoidcraft.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -13,6 +14,7 @@ public class ItemDrZoidCraft extends Item
     public ItemDrZoidCraft()
     {
         super();
+        this.setCreativeTab(CreativeTabDrZoidCraft.DRZOIDCRAFT_TAB);
 
     }
 
